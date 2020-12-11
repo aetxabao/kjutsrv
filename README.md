@@ -13,4 +13,4 @@ El *funcionamiento* del servicio se explica en el siguiente vídeo.
 
 El *código* del servicio se explica en este otro vídeo.
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/N5deLuK5Lvg/1.jpg)](https://www.youtube.com/watch?v=N5deLuK5Lvg&list=PLK_BHw0Wm4MKLFysxzgfIMKuY0b-HTGvp&index=2 "02. Código servicio kjut")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/N5deLuK5Lvg/0.jpg)](https://www.youtube.com/watch?v=N5deLuK5Lvg&list=PLK_BHw0Wm4MKLFysxzgfIMKuY0b-HTGvp&index=2 "02. Código servicio kjut")
